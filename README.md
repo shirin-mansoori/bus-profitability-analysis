@@ -8,7 +8,7 @@ An analysis of whether Bus MP13P1993 is holding its profitability over time — 
 
 ## Dashboard
 
-[`images\dashboard.png`](images\dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 
 6 KPI cards, monthly trend charts, weekday/weekend comparison, month/year slicers.
 
@@ -21,7 +21,7 @@ An analysis of whether Bus MP13P1993 is holding its profitability over time — 
 - **Found and corrected a data-modeling error:** the original sheet treated the owner's personal cash draw as a business expense, understating true profitability. Corrected it to separate operating profit from the owner's draw.
 - **Weekdays outperform weekends** (₹5,802 vs. ₹5,482 avg. daily income) — the route leans on commuter traffic, not leisure.
 
-Full methodology, data cleaning steps, and all findings: [`docs\Project Documentation_ Bus Profitability & Revenue Analysis.pdf`](docs\Project Documentation_ Bus Profitability & Revenue Analysis.pdf)
+Full methodology, data cleaning steps, and all findings: [Project Documentation](docs/project_documentation.pdf)
 
 ---
 
